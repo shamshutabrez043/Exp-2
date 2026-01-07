@@ -72,4 +72,4 @@ s1.display();
 }
 ```
 # output:
-![out of student](Student.png)
+![out of student](student.png)
